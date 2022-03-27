@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05a47fae-3b79-bc99-c9f2-436006bd7e84
 resourcetype: Document
 title: From Crystal to Diffraction Pattern
 uid: c8ca2b0e-ffe2-eb8b-0732-404fb1286f06

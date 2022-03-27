@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05a47fae-3b79-bc99-c9f2-436006bd7e84
 resourcetype: Document
 title: Artefacts
 uid: 8eb0ff94-ef8e-4a61-54e9-20d7b3970f60

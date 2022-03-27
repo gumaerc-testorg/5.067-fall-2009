@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05a47fae-3b79-bc99-c9f2-436006bd7e84
 resourcetype: Document
 title: Twinning
 uid: 00bf3a28-6d16-cf70-0577-4831443e35ac
