@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture and lab topics,
+  assignments due dates, and the final exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

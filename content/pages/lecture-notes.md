@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes that represent the major themes addressed
+  during this graduate seminar.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-From crystal to diffraction pattern ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec1_data))
+From crystal to diffraction pattern ({{% resource_link c8ca2b0e-ffe2-eb8b-0732-404fb1286f06 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ From crystal to diffraction pattern ([PDF]({{< baseurl >}}/resources/mit5_067f09
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The SHELX package ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec2_shelx))
+The SHELX package ({{% resource_link 3c5a5e00-f071-af4d-04f3-77f9a52270e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ The SHELX package ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec2_shelx))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Hydrogen atoms ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec3))
+Hydrogen atoms ({{% resource_link 9536717d-527f-f138-51be-de28f3d54ade "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Hydrogen atoms ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Disorder ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec4))
+Disorder ({{% resource_link e6bf24d7-2158-6f40-4ed6-dc94fa34a756 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Disorder ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Twinning ([PDF - 1.2MB]({{< baseurl >}}/resources/mit5_067f09_lec5_twinning))
+Twinning ({{% resource_link 00bf3a28-6d16-cf70-0577-4831443e35ac "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Twinning ([PDF - 1.2MB]({{< baseurl >}}/resources/mit5_067f09_lec5_twinning))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Artefacts ([PDF]({{< baseurl >}}/resources/mit5_067f09_lec6_artefact))
+Artefacts ({{% resource_link 8eb0ff94-ef8e-4a61-54e9-20d7b3970f60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
