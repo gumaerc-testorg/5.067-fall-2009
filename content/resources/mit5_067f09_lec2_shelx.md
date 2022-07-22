@@ -7,6 +7,7 @@ file: /courses/5-067-crystal-structure-refinement-fall-2009/3c5a5e00f071af4d04f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: The SHELX Package
 uid: 3c5a5e00-f071-af4d-04f3-77f9a52270e0
 ---
 Lecture presentation on the SHELX package, a set of programs for the determination of small (SM) and macromolecular (MM) crystal structures by single crystal X-ray and neutron diffraction. Courtesy of George M. Sheldrick.
-

@@ -7,6 +7,7 @@ file: /courses/5-067-crystal-structure-refinement-fall-2009/8eb0ff94ef8e4a6154e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Artefacts
 uid: 8eb0ff94-ef8e-4a61-54e9-20d7b3970f60
 ---
 Lecture presentation on artefacts in crystallography, libration, short C≡C or C≡N triple bonds , hydrogen positions , Fourier truncation ripples, and structure Validation.
-

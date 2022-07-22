@@ -6,6 +6,7 @@ file: /courses/5-067-crystal-structure-refinement-fall-2009/c8ca2b0effe2eb8b0732
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: From Crystal to Diffraction Pattern
 uid: c8ca2b0e-ffe2-eb8b-0732-404fb1286f06
 ---
 Lecture presentation on judging the quality of a crystal, determining the best exposure time, and data collection strategy.
-
