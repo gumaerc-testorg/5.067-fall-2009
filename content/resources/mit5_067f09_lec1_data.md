@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on judging the quality of a crystal, determining
   the best exposure time, and data collection strategy.
 file: /courses/5-067-crystal-structure-refinement-fall-2009/c8ca2b0effe2eb8b0732404fb1286f06_MIT5_067F09_lec1_data.pdf
+file_size: 671195
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

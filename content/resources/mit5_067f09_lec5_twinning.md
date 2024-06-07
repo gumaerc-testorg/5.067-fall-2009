@@ -4,6 +4,7 @@ description: Lecture presentation on twinning, twinning and jigsaw puzzles, clas
   of twins, merohedral twinning, twin refinement, racemic twinning and absolute configuration,
   non-merohedral twinning, and warning signs for twinning.
 file: /courses/5-067-crystal-structure-refinement-fall-2009/00bf3a286d16cf7005774831443e35ac_MIT5_067F09_lec5_twinning.pdf
+file_size: 1268652
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
